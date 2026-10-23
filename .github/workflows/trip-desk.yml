@@ -1,0 +1,12 @@
+name: trip-desk
+on: [push, workflow_dispatch]
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: print-plan
+        run: |
+          echo "trip_plan_begin"
+          echo "train=G1033"
+          echo "day=tomorrow"
+          echo "trip_plan_end"
