@@ -1,0 +1,22 @@
+Team trip itinerary — Train G1033 — travel date: 2026-10-25 (Sunday)
+Route: 18 stops, 深圳北 (Shenzhen North) → 宜昌北 (Yichang North)
+Note: through service — runs as G1032 from 深圳北 to 汉口, then continues as G1033 from 汉口 to 宜昌北. All times are for the travel date.
+
+01. 深圳北 (Shenzhen North) - dep 14:50
+02. 广州南 (Guangzhou South) - arr 15:21, dep 15:24
+03. 广州北 (Guangzhou North) - arr 15:41, dep 15:43
+04. 清远 (Qingyuan) - arr 15:55, dep 15:59
+05. 衡阳东 (Hengyang East) - arr 17:27, dep 17:29
+06. 株洲西 (Zhuzhou West) - arr 17:57, dep 17:59
+07. 长沙南 (Changsha South) - arr 18:14, dep 18:17
+08. 赤壁北 (Chibi North) - arr 19:09, dep 19:22
+09. 咸宁北 (Xianning North) - arr 19:35, dep 19:37
+10. 武汉 (Wuhan) - arr 20:02, dep 20:09
+11. 汉口 (Hankou) - arr 20:28, dep 20:34
+12. 汉川北 (Hanchuan North) - arr 20:59, dep 21:01
+13. 天门 (Tianmen) - arr 21:19, dep 21:21
+14. 京山南 (Jingshan South) - arr 21:32, dep 21:34
+15. 钟祥南 (Zhongxiang South) - arr 21:48, dep 21:50
+16. 荆门西 (Jingmen West) - arr 22:07, dep 22:10
+17. 当阳西 (Dangyang West) - arr 22:23, dep 22:25
+18. 宜昌北 (Yichang North) - arr 22:37 (terminus)
